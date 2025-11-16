@@ -15,6 +15,18 @@ body {
   background: #252432;
 }
 
+.back-btn {
+  position: absolute;
+  width: fit-content;
+  left: 10px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.back-btn a {
+  color: white;
+}
+
 @property --a {
   syntax: '<angle>';
   inherits: false;

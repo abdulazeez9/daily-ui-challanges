@@ -10,6 +10,14 @@ body {
   background-color: #f5f5f5;
   min-height: 100vh;
 }
+
+.back-btn {
+  position: absolute;
+  width: fit-content;
+  left: 10px;
+  top: 10px;
+  cursor: pointer;
+}
 .checkout-container {
   padding: 20px 10px;
   border-radius: 8px;

@@ -28,6 +28,14 @@ a:hover {
   text-decoration: underline;
 }
 
+.back-btn {
+  position: absolute;
+  width: fit-content;
+  left: 10px;
+  top: 10px;
+  cursor: pointer;
+}
+
 .wrapper {
   width: 100%;
   display: flex;
